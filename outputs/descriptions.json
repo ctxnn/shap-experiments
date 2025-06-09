@@ -1,0 +1,209 @@
+[
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_01014.jpg",
+        "true_label": "Real",
+        "predicted_label": "Fake",
+        "correct_prediction": false,
+        "description": "This image appears to be AI-generated due to edge artifacts in the bottom-left region, and unnatural color distribution in the bottom-right region",
+        "key_artifacts": [
+            "edge artifacts in the bottom-left region",
+            "unnatural color distribution in the bottom-right region"
+        ]
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/easy_34_1100.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Fake",
+        "correct_prediction": true,
+        "description": "This image appears to be AI-generated due to inconsistent lighting in the top-right region, and unnatural color distribution in the bottom-right region",
+        "key_artifacts": [
+            "inconsistent lighting in the top-right region",
+            "unnatural color distribution in the bottom-right region"
+        ]
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/mid_23_1111.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Fake",
+        "correct_prediction": true,
+        "description": "This image appears to be AI-generated due to edge artifacts in the bottom-left region, and unnatural color distribution in the bottom-right region",
+        "key_artifacts": [
+            "edge artifacts in the bottom-left region",
+            "unnatural color distribution in the bottom-right region"
+        ]
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00846.jpg",
+        "true_label": "Real",
+        "predicted_label": "Real",
+        "correct_prediction": true,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/mid_338_1100.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Real",
+        "correct_prediction": false,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00460.jpg",
+        "true_label": "Real",
+        "predicted_label": "Real",
+        "correct_prediction": true,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00466.jpg",
+        "true_label": "Real",
+        "predicted_label": "Real",
+        "correct_prediction": true,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00437.jpg",
+        "true_label": "Real",
+        "predicted_label": "Real",
+        "correct_prediction": true,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/hard_36_1101.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Real",
+        "correct_prediction": false,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/hard_49_0010.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Fake",
+        "correct_prediction": true,
+        "description": "This image appears to be AI-generated due to inconsistent lighting in the top-right region, and unnatural color distribution in the bottom-right region",
+        "key_artifacts": [
+            "inconsistent lighting in the top-right region",
+            "unnatural color distribution in the bottom-right region"
+        ]
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00290.jpg",
+        "true_label": "Real",
+        "predicted_label": "Real",
+        "correct_prediction": true,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/mid_11_1100.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Real",
+        "correct_prediction": false,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00965.jpg",
+        "true_label": "Real",
+        "predicted_label": "Real",
+        "correct_prediction": true,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00559.jpg",
+        "true_label": "Real",
+        "predicted_label": "Fake",
+        "correct_prediction": false,
+        "description": "This image appears to be AI-generated due to edge artifacts in the bottom-left region, and unnatural color distribution in the bottom-right region",
+        "key_artifacts": [
+            "edge artifacts in the bottom-left region",
+            "unnatural color distribution in the bottom-right region"
+        ]
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00668.jpg",
+        "true_label": "Real",
+        "predicted_label": "Real",
+        "correct_prediction": true,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00408.jpg",
+        "true_label": "Real",
+        "predicted_label": "Real",
+        "correct_prediction": true,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00351.jpg",
+        "true_label": "Real",
+        "predicted_label": "Fake",
+        "correct_prediction": false,
+        "description": "This image appears to be AI-generated due to edge artifacts in the bottom-left region, and unnatural color distribution in the bottom-right region",
+        "key_artifacts": [
+            "edge artifacts in the bottom-left region",
+            "unnatural color distribution in the bottom-right region"
+        ]
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/hard_66_1111.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Real",
+        "correct_prediction": false,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/hard_191_0011.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Fake",
+        "correct_prediction": true,
+        "description": "This image appears to be AI-generated due to edge artifacts in the bottom-left region, and unnatural color distribution in the bottom-right region",
+        "key_artifacts": [
+            "edge artifacts in the bottom-left region",
+            "unnatural color distribution in the bottom-right region"
+        ]
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/easy_89_0010.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Real",
+        "correct_prediction": false,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00833.jpg",
+        "true_label": "Real",
+        "predicted_label": "Real",
+        "correct_prediction": true,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/real/real_00125.jpg",
+        "true_label": "Real",
+        "predicted_label": "Fake",
+        "correct_prediction": false,
+        "description": "This image appears to be AI-generated due to edge artifacts in the bottom-left region, and unnatural color distribution in the bottom-right region",
+        "key_artifacts": [
+            "edge artifacts in the bottom-left region",
+            "unnatural color distribution in the bottom-right region"
+        ]
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/hard_25_1111.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Real",
+        "correct_prediction": false,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/mid_203_1111.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Real",
+        "correct_prediction": false,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    },
+    {
+        "image_path": "/kaggle/input/real-vs-fake-faces/fake/mid_68_1111.jpg",
+        "true_label": "Fake",
+        "predicted_label": "Real",
+        "correct_prediction": false,
+        "description": "This appears to be an authentic photograph with natural lighting, consistent textures, and realistic details."
+    }
+]
