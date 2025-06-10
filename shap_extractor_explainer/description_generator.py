@@ -32,7 +32,7 @@ def generate_description(shap_summary, tag):
         "In 2-3 sentences, explain why the model considers it real or fake, focusing on the key visual features."
     )
     response = openai.ChatCompletion.create(
-        model='deepseek-v3',
+        model='deepseek/deepseek-r1-0528:free',
         messages=[{'role': 'user', 'content': prompt}],
         temperature=0.7,
         max_tokens=150
